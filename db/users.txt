@@ -1,0 +1,7 @@
+1,dev,:+99{xy,SUPERADMIN
+2,pharma,:+99{xy,PHARMACIST
+3,assist,:+99{xy,ASSISTANT
+4,test,$/=>/9>,PHARMACIST
+5,testt,>/9>>,SUPERADMIN
+6,thewho,>"/="%,ASSISTANT
+7,asd,+9.,ASSISTANT

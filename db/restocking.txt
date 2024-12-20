@@ -1,0 +1,13 @@
+
+1,Amoxicillin,33,2024-12-18,pharma
+2,Paracetamol,25,2024-12-18,pharma
+3,Ibuprofen,27,2024-12-18,pharma
+4,Vitamin C,3,2024-12-18,pharma
+5,Penicillin,1,2024-12-18,pharma
+6,Aspirin,1,2024-12-18,pharma
+6,Aspirin,1,2024-12-18,pharma
+7,Multivitamin,1,2024-12-18,pharma
+8,Ciprofloxacin,1,2024-12-18,pharma
+9,Calcium,1,2024-12-18,pharma
+10,Codeine,22,2024-12-18,pharma
+5,Penicillin,50,2024-12-19,pharma

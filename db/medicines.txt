@@ -1,0 +1,11 @@
+1,Amoxicillin,ANTIBIOTICS,65.0,7,2025-01-01,MediCo,true
+2,Paracetamol,PAINKILLERS,10.0,104,2024-06-15,HealthCorp,false
+3,Ibuprofen,PAINKILLERS,20.0,207,2024-08-20,PharmaPlus,false
+4,Vitamin C,VITAMINS,10.0,179,2024-12-31,NutriLife,false
+5,Penicillin,ANTIBIOTICS,50.0,58,2023-11-30,BioMed,false
+6,Aspirin,PAINKILLERS,15.0,245,2025-03-25,MediHealth,false
+7,Multivitamin,VITAMINS,15.0,346,2025-05-01,WellnessInc,false
+8,Ciprofloxacin,ANTIBIOTICS,70.0,121,2025-09-14,PharmaCorp,true
+9,Calcium,VITAMINS,20.0,176,2025-01-01,HealthPlus,false
+10,Codeine,PAINKILLERS,25.0,121,2024-10-10,PharmaX,false
+11,Newmed,ANTIBIOTICS,20.0,9,2025-10-31,Newmed,true
