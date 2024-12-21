@@ -1,7 +1,7 @@
 # Java-Console-Based-Pharmacy-Information-System
 
 This project is a Java console application designed to manage pharmacy operations. It includes prescription validation, stock management, customer handling, transaction processing, and different kind or reports. The system follows the MVC pattern for organized and maintainable code. 
-Created by Jeorgie C. Estrada for Armada Logics.
+Created by Jeorgie C. Estrada for Armada Logics (https://www.armadalogics.com/).
 
 ## Features
 
